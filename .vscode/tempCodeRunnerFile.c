@@ -1,0 +1,1 @@
+            printf("devido a eventos historicos, nao houve jogos olimpicos de verao ou copa do mundo em %d.\n", ano);
